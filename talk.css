@@ -1,16 +1,78 @@
-.A{
-    /* border-style: solid; */
+body{
     background-color: #ce6b8e;
-    /* border-width: 1000px; */
-    height: 3000px;
+}
+
+.A{
+    border-style: solid;
+    padding:400px 350px;
+    border-width: 3px;
     text-align: center;
     margin: auto;
+    display: flex;
+    position:absolute;
 }
 .A1{
-    padding: 10px;
-    display: absolute;
-    width: auto;
-    height: 300px;
-    background-color: red;
-    top: 10px;
+    border-style: solid;
+    padding:30px 300px;
+    border-width: 3px;
+    text-align: center;
+    margin:  3px;
+    top: 14px;
+    right: -1px;
+    display: flex;
+    position:absolute;
 }
+.A2{
+    border-style: solid;
+    padding:80px 300px;
+    border-width: 3px;
+    text-align: center;
+    margin:  3px;
+    top: 100px;
+    right: -1px;
+    display: flex;
+    position:absolute;
+}
+.A3{
+    border-style: solid;
+    padding:255px 300px;
+    border-width: 3px;
+    text-align: center;
+    margin:  3px;
+    top: 280px;
+    right: -1px;
+    display: flex;
+    position:absolute;
+}
+.A4{
+    border-style: solid;
+    padding:140px 1px;
+    border-width: 3px;
+    text-align: center;
+    margin:  3px;
+    top: 10px;
+    left: 1px;
+    display: flex;
+    position:absolute;
+    background-color: rgba(56, 71, 209, 0.856);
+    writing-mode: vertical-lr;
+}
+
+.B1{
+    padding:30px 30px;
+    display: flex;
+    position:absolute;
+    background-color: rgba(56, 71, 209, 0.856);
+    background-image: url(筆.png);
+    bottom:10px;
+    right:10px;
+}
+.B2{
+    padding:25px 25px;
+    display: flex;
+    position:absolute;
+    background-image: url(搜尋圖案.jpg);
+    top:22px;
+    right:10px;
+}
+
