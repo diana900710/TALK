@@ -1,0 +1,12 @@
+.A{
+    border-style: solid;
+    border-color: #ce6b8e;
+    border-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+.A1{
+    padding: 10px;
+    display: absolute;
+    top: 10px;
+}
