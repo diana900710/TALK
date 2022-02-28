@@ -5,41 +5,41 @@
     text-align: center;
     margin: auto;
     display: flex;
-    position:absolute;
+    position: inherit;
     background-color: #ce6b8e;
 }
 .A1{
     border-style: solid;
-    padding:36px 300px;
+    padding:36px 890px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
     top: 14px;
-    right: -1px;
+    right: 10px;
     display: flex;
-    position:absolute;
+    position:fixed;
 }
 .A2{
     border-style: solid;
-    padding:80px 300px;
+    padding:80px 890px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
     top: 100px;
-    right: -1px;
+    right: 10px;
     display: flex;
-    position:absolute;
+    position:fixed;
 }
 .A3{
     border-style: solid;
-    padding:255px 300px;
+    padding:255px 890px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
     top: 280px;
-    right: -1px;
+    right: 10px;
     display: flex;
-    position:absolute;
+    position:fixed;
 }                       
 .A4{                                    /*A4有和其他重疊*/
     border-style: solid;
@@ -50,7 +50,7 @@
     top: 10px;
     left: 1px;
     display: flex;
-    position:absolute;
+    position:fixed;
     background-color: rgba(56, 71, 209, 0.856);
     writing-mode: vertical-lr;
 }
@@ -58,11 +58,11 @@
 .buttom1{
     padding:30px 30px;
     display: flex;
-    position:absolute;
+    position:fixed;
     background-color: rgba(56, 71, 209, 0.856);
     background-image: url(/照片/筆.png);      /*圖片沒上傳*/
-    bottom:10px;
-    right:10px;
+    bottom:140px;
+    right:30px;
     border-radius: 50%;
 }
 .buttom2{ 
@@ -70,10 +70,10 @@
     height:62px;
     object-fit: fill;
     display: flex;
-    position:absolute;
+    position:fixed;
     background-image: url(/照片/搜尋.png);    /*圖片沒上傳*/
-    top:10px;
-    right:10px;
+    top:25px;
+    right:30px;
     border-radius: 50%;
   
 }
@@ -82,7 +82,7 @@
     height:50px;
     object-fit: cover;
     display: flex;
-    position:absolute;
+    position:fixed;
     background-image: url(/照片/茶花.jpg);
     top:50px;
     left:10px;
@@ -91,10 +91,10 @@
 
 .search-bar{
     padding:6px;
-    width:500px; 
-    height:20px;
-    right:80px;
-    top: 25px;
-    position:absolute;
+    width:1650px; 
+    height:30px;
+    right:120px;
+    top: 32px;
+    position:fixed;
 }
 
