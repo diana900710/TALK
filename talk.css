@@ -69,7 +69,8 @@
 }
 
 .buttom1{
-    padding:30px 30px;
+    width:80px; 
+    height:80px;
     display: flex;
     position:fixed;
     object-fit: scale-down;
