@@ -1,6 +1,8 @@
 .A{                                     /*寬高再修正*/
     border-style: solid;
-    padding:400px 350px;
+    width:1899px;
+    height: 899px;
+    padding:3px;
     border-width: 3px;
     text-align: center;
     margin: auto;
