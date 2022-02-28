@@ -60,7 +60,7 @@
     display: flex;
     position:absolute;
     background-color: rgba(56, 71, 209, 0.856);
-    background-image: url(筆.jpg);      /*圖片沒上傳*/
+    background-image: url(/照片/筆.png);      /*圖片沒上傳*/
     bottom:10px;
     right:10px;
     border-radius: 50%;
@@ -71,7 +71,7 @@
     object-fit: fill;
     display: flex;
     position:absolute;
-    background-image: url(搜尋.png);    /*圖片沒上傳*/
+    background-image: url(/照片/搜尋.png);    /*圖片沒上傳*/
     top:10px;
     right:10px;
     border-radius: 50%;
@@ -83,7 +83,7 @@
     object-fit: cover;
     display: flex;
     position:absolute;
-    background-image: url(茶花.jpg);
+    background-image: url(/照片/茶花.jpg);
     top:50px;
     left:10px;
     border-radius: 50%;
