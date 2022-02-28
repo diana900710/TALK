@@ -8,9 +8,16 @@
     position: inherit;
     background-color: #ce6b8e;
 }
+.B2{
+
+
+
+}
 .A1{
     border-style: solid;
-    padding:36px 890px;
+    width:1780px;
+    height: 65px;
+    padding:3px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
@@ -21,7 +28,9 @@
 }
 .A2{
     border-style: solid;
-    padding:80px 890px;
+    width:1780px;
+    height: 150px;
+    padding:3px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
@@ -32,7 +41,9 @@
 }
 .A3{
     border-style: solid;
-    padding:255px 890px;
+    width:1780px;
+    height: 510px;
+    padding:3px;
     border-width: 3px;
     text-align: center;
     margin:  3px;
