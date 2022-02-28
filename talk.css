@@ -72,8 +72,7 @@
     padding:30px 30px;
     display: flex;
     position:fixed;
-    background-color: rgba(56, 71, 209, 0.856);
-    background-image: url(/照片/筆.png);      /*圖片沒上傳*/
+    object-fit: scale-down;
     bottom:50px;
     right:30px;
     border-radius: 50%;
@@ -81,22 +80,20 @@
 .buttom2{ 
     width:62px; 
     height:62px;
-    object-fit: fill;
+    object-fit: cover;
     display: flex;
     position:fixed;
-    background-image: url(/照片/搜尋.png);    /*圖片沒上傳*/
     top:25px;
     right:30px;
     border-radius: 50%;
   
 }
-.mainbuttom{                            /*圖片沒上傳*/
+.mainbuttom{                           
     width:50px; 
     height:50px;
     object-fit: cover;
     display: flex;
     position:fixed;
-    background-image: url(/照片/茶花.jpg);
     top:50px;
     left:10px;
     border-radius: 50%;
