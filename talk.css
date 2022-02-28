@@ -1,4 +1,4 @@
-.A{
+.A{                                     /*寬高再修正*/
     border-style: solid;
     padding:400px 350px;
     border-width: 3px;
@@ -40,8 +40,8 @@
     right: -1px;
     display: flex;
     position:absolute;
-}
-.A4{
+}                       
+.A4{                                    /*A4有和其他重疊*/
     border-style: solid;
     padding:140px 1px;
     border-width: 3px;
@@ -60,7 +60,7 @@
     display: flex;
     position:absolute;
     background-color: rgba(56, 71, 209, 0.856);
-    background-image: url(筆.jpg);
+    background-image: url(筆.jpg);      /*圖片沒上傳*/
     bottom:10px;
     right:10px;
     border-radius: 50%;
@@ -71,13 +71,13 @@
     object-fit: fill;
     display: flex;
     position:absolute;
-    background-image: url(搜尋.png);
+    background-image: url(搜尋.png);    /*圖片沒上傳*/
     top:10px;
     right:10px;
     border-radius: 50%;
   
 }
-.mainbuttom{
+.mainbuttom{                            /*圖片沒上傳*/
     width:50px; 
     height:50px;
     object-fit: cover;
