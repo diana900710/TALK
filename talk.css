@@ -74,7 +74,7 @@
     position:fixed;
     background-color: rgba(56, 71, 209, 0.856);
     background-image: url(/照片/筆.png);      /*圖片沒上傳*/
-    bottom:140px;
+    bottom:50px;
     right:30px;
     border-radius: 50%;
 }
