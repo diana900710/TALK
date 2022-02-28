@@ -60,8 +60,8 @@
     border-width: 3px;
     text-align: center;
     margin:  3px;
-    top: 10px;
-    left: 1px;
+    top: 5px;
+    left: 5px;
     display: flex;
     position:fixed;
     background-color: rgba(56, 71, 209, 0.856);
@@ -99,7 +99,7 @@
     position:fixed;
     background-image: url(/照片/茶花.jpg);
     top:50px;
-    left:10px;
+    left:25px;
     border-radius: 50%;
     background-size: contain;   /*背景大小調整*/
 }
