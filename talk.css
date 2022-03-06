@@ -1,7 +1,7 @@
 .A{                                     /*寬高再修正*/
     border-style: solid;
     width:1899px;
-    height: 899px;
+    height: 1399px;
     padding:3px;
     border-width: 3px;
     text-align: center;
@@ -44,7 +44,7 @@
 .A3{
     border-style: solid;
     width:1780px;
-    height: 610px;
+    height: 580px;
     padding:3px;
     border-width: 3px;
     text-align: center;
